@@ -1,16 +1,51 @@
-# dsw52640_projekt
+# 📱Simple Android App
 
-A new Flutter project.
+This is my first Flutter aplication. 
+In this app you can add taksk and edit them.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## 📌 About the Project
+**SimpleFlutterApp** is a minimalistic Flutter application created as a learning project.
 
-A few resources to get you started if this is your first Flutter project:
+### Features:
+- Basic Flutter UI components
+- Adding Tasks
+- State management using setState
+- Platform-independent (Android & iOS)
+### To do:
+- Login Validation
+- Registration
+- SQL base
+---
+## 🛠 Technologies Used
+- **Flutter** 
+- **Dart**
+  ## 🚀 Installation
+Follow these steps to run the project locally:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/Roczil/SimpleFlutterApp.git
+   ```
+2. Navigate to the project directory:
+   ```sh
+   cd SimpleFlutterApp
+   ```
+3. Get the required dependencies:
+   ```sh
+   flutter pub get
+   ```
+4. Run the app:
+   ```sh
+   flutter run
+   ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Make sure you have Flutter installed. If not, check the official [Flutter installation guide](https://flutter.dev/docs/get-started/install).
+
+---
+##  Usage
+- Run the app using `flutter run`.
+- Navigate through the app to explore its basic functionalities.
+- You can Creat/Read/Update/Delete Tasks
+
+---
